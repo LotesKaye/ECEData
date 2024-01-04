@@ -29,6 +29,6 @@ Discuss here the results of each conducted training and evaluation
 # Conclusion
 must be parallel with the objectives
 
-# Program Codes / MATLAB/ Google colab / Jupyter notebook or spyder IDE 
+# Program Codes / MATLAB/ Google collab / Jupyter notebook or spyder IDE 
 
 
