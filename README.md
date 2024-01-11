@@ -1,14 +1,21 @@
-# Title of the Project 
+# Analyzing World Unemployment Rates from 1991-2021
 **A Course Requirement for the Subject Data Science and Artificial Intelligence**
 
 Submitted by: Group 6
 
+Group Members:
+Bautista, Lotes Kaye S.
+Loyola, Dave Jarold T.
+Marquez, Djullance M.
+Salandanan, Jericho M.
+
 Submitted to: Engr. Aisa M. Labastilla, PCpE
 
-Date: January 4, 2024
+Date: January , 2024
 
 # Introduction / Problem Statement
-Describe the problem you are trying to give a solution in doing the training and evaluation of the gathered data. State what SDG you are targeting
+Describe the problem you are trying to give a solution in doing the training and evaluation of the gathered data. State what SDG you are targeting.
+
 
 # Review of Related Literature
 Describe here the technical know-how that you learned and researched related to your problem,
